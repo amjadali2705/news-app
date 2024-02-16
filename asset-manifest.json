@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/.github.io/news-app/static/css/main.073c9b0a.css",
-    "main.js": "/.github.io/news-app/static/js/main.b1bc4306.js",
-    "static/js/787.4c026eef.chunk.js": "/.github.io/news-app/static/js/787.4c026eef.chunk.js",
-    "index.html": "/.github.io/news-app/index.html",
-    "main.073c9b0a.css.map": "/.github.io/news-app/static/css/main.073c9b0a.css.map",
-    "main.b1bc4306.js.map": "/.github.io/news-app/static/js/main.b1bc4306.js.map",
-    "787.4c026eef.chunk.js.map": "/.github.io/news-app/static/js/787.4c026eef.chunk.js.map"
+    "main.css": "/news-app/static/css/main.073c9b0a.css",
+    "main.js": "/news-app/static/js/main.ac2666b9.js",
+    "static/js/787.4c026eef.chunk.js": "/news-app/static/js/787.4c026eef.chunk.js",
+    "index.html": "/news-app/index.html",
+    "main.073c9b0a.css.map": "/news-app/static/css/main.073c9b0a.css.map",
+    "main.ac2666b9.js.map": "/news-app/static/js/main.ac2666b9.js.map",
+    "787.4c026eef.chunk.js.map": "/news-app/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b1bc4306.js"
+    "static/js/main.ac2666b9.js"
   ]
 }
